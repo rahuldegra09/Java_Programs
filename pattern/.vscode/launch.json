@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/rahuldegra/Desktop/java/pattern",
+      "program": "/Users/rahuldegra/Desktop/java/pattern/build/Debug/outDebug"
+    }
+  ]
+}
